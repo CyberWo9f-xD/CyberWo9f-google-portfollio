@@ -9,7 +9,7 @@
   "plugins": ["@typescript-eslint", "react", "prettier"],
   "rules": {
     "react/react-in-jsx-scope": "off",
-    "prettier/prettier": "error"
+    "prettier/prettier": "off"
   },
   "globals": {
     "React": "writable"
