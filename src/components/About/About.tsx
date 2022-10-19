@@ -23,8 +23,8 @@ export const About: React.FC = () => {
           Kumar Yaduwansi a Indian software engineer, computer scientist and
           E-Hacker. He is currently located in Ranchi, IN and works as Soft-
           ware Engineer at HCLtech. He occasionally posts Ethical Hacking,
-          videos on his YouTube channel. In the future, Kumar hopes to own and
-          drive the all new{' '}
+          videos on his YouTube channel. In the future, Kumar hopes to own
+          and drive the all new{' '} 
           <b>2023 Ford F150&reg; Lightning&trade; Pro</b>.
         </p>
         <div className={styles.stat}>

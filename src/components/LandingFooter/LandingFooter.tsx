@@ -4,7 +4,7 @@ import styles from './LandingFooter.module.scss'
 export const LandingFooter: React.FC = () => {
   return (
     <div className={styles.container}>
-      <div className={styles.row}>India, Bihar</div>
+      <div className={styles.row}>Bihar, India</div>
       <div className={classNames(styles.row, styles.bottom)}>
         <div className={styles.content}>
           <span>Advertising</span>
