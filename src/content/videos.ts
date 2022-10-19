@@ -9,13 +9,13 @@ export const videos: Video[] = [
     id: 'twi33GVRazE',
     description: `Building a simple GraphQL API with me using TypeScript, NestJS, and Prisma. 
 
-    Source code: https://github.com/H-Richard/backend-2022
+    Source code: https://github.com/CyberWo9f-xD/backend-2022
     
     Learn more about NestJS: https://nestjs.com/
     Learn more about Prisma: https://www.prisma.io/
     Learn more about GraphQL: https://graphql.org/
     
-    For the background music, check out: https://www.youtube.com/channel/UCaH9AQy86DBIg-BpWzj-csQ`,
+    For the background music, check out: https://www.youtube.com/channel/CyberWo9f-xD`,
     uploadDate: 'July 11, 2022',
   },
   {
@@ -43,7 +43,7 @@ export const videos: Video[] = [
 
     Links referenced throughout the video: 
     
-    Source code: https://github.com/H-Richard/go-graphql
+    Source code: https://github.com/CyberWo9f-xD/go-graphql
     howtographql: https://www.howtographql.com/graphql-...
     mongodb driver: https://github.com/mongodb/mongo-go-d...
     gqlgen: https://github.com/99designs/gqlgen
@@ -58,7 +58,7 @@ export const videos: Video[] = [
     Today we explore some of the ways we can use array destructuring to our benefit. 
     
     
-    To learn more about object destructuring check out: https://youtu.be/2jbuJpiUSbo
+    To learn more about object destructuring check out: https://youtu.be/CyberWo9f-xD
     `,
     uploadDate: 'June 19, 2020',
   },
@@ -75,7 +75,7 @@ export const videos: Video[] = [
     id: 'CNz7G6mF9o0',
     description: `Deno is a modern JavaScript/TypeScript runtime built by the author of NodeJS. Today we'll take a look at how you can build a GraphQL Server with Deno and MongoDB.
 
-    Source code: https://github.com/H-Richard/deno-gra...
+    Source code: https://github.com/CyberWo9f-xD/deno-gra...
     Learn more about Deno: https://deno.land/
     Learn more about GraphQL: https://graphql.org/`,
     uploadDate: 'June 6, 2020',

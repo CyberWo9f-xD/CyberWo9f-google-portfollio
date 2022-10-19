@@ -6,7 +6,7 @@ export const Footer: React.FC = () => {
       <div>
         Built with NextJS, TypeScript and ❤️.{' '}
         <a
-          href="https://github.com/H-Richard/google-search"
+          href="https://github.com/CyberWo9f-xD/CyberWo9f-google--portfollio/"
           target="_blank"
           rel="noreferrer"
         >

@@ -6,8 +6,8 @@ export const useSearchText = (delay = 0) => {
 
   const animate = useCallback(async () => {
     const searchTextGenerator = searchTextGeneratorBuilder(
-      'Rkvjarrd Jpong ',
-      'Richard Hong'
+      'CyberWo9f ',
+      'KumarYaduwansi'
     )()
 
     let value, done

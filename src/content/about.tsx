@@ -16,22 +16,22 @@ type Profile = ComponentProps<typeof SocialProfile>
 export const profiles: Profile[] = [
   {
     label: 'GitHub',
-    url: 'https://www.github.com/H-Richard',
+    url: 'https://www.github.com/CyberWo9f-xD',
     src: github,
   },
   {
     label: 'YouTube',
-    url: 'https://www.youtube.com/c/h-richard/',
+    url: 'https://www.youtube.com/c/SpyKid/',
     src: youtube,
   },
   {
     label: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/h-richard/',
+    url: 'https://www.linkedin.com/in/CyberWo9f/',
     src: linkedin,
   },
   {
     label: 'Instagram',
-    url: 'https://www.instagram.com/richardandjodi',
+    url: 'https://www.instagram.com/3ncrypt3d_.cyb3rwo9f._/',
     src: instagram,
   },
 ]
@@ -41,26 +41,26 @@ type Friends = ComponentProps<typeof Friend>[]
 export const friends: Friends = [
   {
     src: dwayneJohnson,
-    name: 'Dwayne Johnson',
-    label: 'Twin Brother',
+    name: 'Pari Chauhan Rajput',
+    label: 'Future Wife',
     url: 'https://www.google.com/search?q=Dwayne%20Johnson',
   },
   {
     src: jodiJang,
-    name: 'Jodi Jang',
-    label: 'Favorite Husband',
-    url: 'https://jodijang.github.io/',
+    name: 'Abhishek Yaduwansi',
+    label: 'Brother+Friend',
+    url: 'https://www.facebook.com/adityaroy.adityaroy.18041/',
   },
   {
     src: bryanLiu,
-    name: 'Bryan Liu',
-    label: 'Former Daughter',
-    url: 'https://www.liubryan.com/',
+    name: 'Ashutosh Tiwari',
+    label: 'Close Friend',
+    url: 'https://www.facebook.com/aashutosh.tiwari.104',
   },
   {
     src: jeffZhao,
-    name: 'Jeff Zhao',
-    label: 'Eldest Disciple',
-    url: 'https://kamiyaa.github.io/',
+    name: 'Aakash Yaduwansi',
+    label: 'Son',
+    url: 'https://www.facebook.com/sky.yadav.7509836',
   },
 ]

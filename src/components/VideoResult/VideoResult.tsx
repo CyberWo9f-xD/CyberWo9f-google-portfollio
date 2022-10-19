@@ -40,7 +40,7 @@ export const VideoResult: React.FC<Props> = ({
           <h4 className={styles.mobile}>{title}</h4>
           <p className={styles.text}>{description}</p>
           <p className={styles.stats}>
-            <span>YouTube</span> · Richard Hong · {uploadDate}
+            <span>YouTube</span> · Kumar Yaduwansi · {uploadDate}
           </p>
         </div>
       </div>

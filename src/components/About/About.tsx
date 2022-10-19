@@ -18,18 +18,18 @@ export const About: React.FC = () => {
     <div className={styles.container}>
       <div className={styles.about}>
         <h4>About</h4>
-        <div className={styles.website}>{globe} h-richard.com</div>
+        <div className={styles.website}>{globe} CyberWo9f.com</div>
         <p className={styles.description}>
           Kumar Yaduwansi a Indian software engineer, computer scientist
-          and E-Hacker. He is currently located in Ranchi, IN and works as a
-          Software Engineer at HCLtech. He occasionally posts Ethical hacking
-          videos on his YouTube channel. In the future, Richard
+          and E-Hacker. He is currently located in Ranchi, IN and works as
+          Software Engineer at HCLtech. He occasionally posts Ethical 
+          hacking videos on his YouTube channel. In the future, Richard
           hopes to own and drive the all new{' '}
           <b>2023 Ford F150&reg; Lightning&trade; Pro</b>.
         </p>
         <div className={styles.stat}>
-          <span>Born: </span>February, 2000 (age{' '}
-          {new Date(Date.now() - new Date(2000, 0o2).getTime()).getFullYear() -
+          <span>Born: </span>June, 2002 (age{' '}
+          {new Date(Date.now() - new Date(2002, 0o2).getTime()).getFullYear() -
             1970}{' '}
           years),{' '}
           <a
@@ -37,7 +37,7 @@ export const About: React.FC = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Shenyang, Liaoning
+            Chhapra, Bihar
           </a>
         </div>
         <div className={styles.stat}>

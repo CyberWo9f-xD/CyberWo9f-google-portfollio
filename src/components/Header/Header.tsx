@@ -66,7 +66,7 @@ export const Header: React.FC = () => {
         <div className={styles.logo}>
           <Logo height={30} width={92} />
         </div>
-        <SearchBar searchText="Richard Hong" />
+        <SearchBar searchText="Kumar Yaduwansi" />
         <div className={styles.control}>
           <ThemeButton />
           {dots}
@@ -82,7 +82,7 @@ export const Header: React.FC = () => {
         <ThemeButton />
       </div>
       <div className={styles.bar}>
-        <SearchBar searchText="Richard Hong" landing />
+        <SearchBar searchText="Kumar Yaduwansi" landing />
       </div>
       <div className={styles.navigation}>
         {routes.map(({ label, route, icon, activeIcon }) => {

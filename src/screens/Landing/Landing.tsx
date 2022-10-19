@@ -31,7 +31,7 @@ export const Landing: React.FC<LandingProps> = ({
   }, [])
 
   useEffect(() => {
-    if (searchText === 'Richard Hong') search()
+    if (searchText === 'Kumar Yaduwansi') search()
   }, [search, searchText])
 
   return (
