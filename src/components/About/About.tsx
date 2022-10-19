@@ -20,10 +20,10 @@ export const About: React.FC = () => {
         <h4>About</h4>
         <div className={styles.website}>{globe} h-richard.com</div>
         <p className={styles.description}>
-          Richard Hong a Chinese-Canadian software engineer, computer scientist
-          and cook. He is currently located in San Francisco, CA and works as a
-          Software Engineer at Meta. He occasionally posts educational software
-          engineering videos on his YouTube channel. In the future, Richard
+          Kumar Yaduwansi a Indian software engineer, computer scientist
+          and E-Hacker. He is currently located in Ranchi, IN and works as a
+          Software Engineer at HCLtech. He occasionally posts Ethical hacking
+          videos on his YouTube channel. In the future, Richard
           hopes to own and drive the all new{' '}
           <b>2023 Ford F150&reg; Lightning&trade; Pro</b>.
         </p>
@@ -33,7 +33,7 @@ export const About: React.FC = () => {
             1970}{' '}
           years),{' '}
           <a
-            href="https://en.wikipedia.org/wiki/Shenyang"
+            href="https://en.wikipedia.org/wiki/Chhapra"
             target="_blank"
             rel="noreferrer"
           >
@@ -45,8 +45,8 @@ export const About: React.FC = () => {
         </div>
         <div className={styles.stat}>
           <span>Education: </span>
-          <a href="https://www.utoronto.ca/" target="_blank" rel="noreferrer">
-            University of Toronto
+          <a href="https://jpv.ac.in/" target="_blank" rel="noreferrer">
+          Jai Prakash University – Chapra
           </a>{' '}
           (2022)
         </div>
