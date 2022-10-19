@@ -20,11 +20,11 @@ export const About: React.FC = () => {
         <h4>About</h4>
         <div className={styles.website}>{globe} CyberWo9f.com</div>
         <p className={styles.description}>
-          Kumar Yaduwansi a Indian software engineer, computer scientist
-          and E-Hacker. He is currently located in Ranchi, IN and works as
-          Software Engineer at HCLtech. He occasionally posts Ethical 
-          hacking videos on his YouTube channel. In the future, Richard
-          hopes to own and drive the all new{' '}
+          Kumar Yaduwansi a Indian software engineer, computer scientist and
+          E-Hacker. He is currently located in Ranchi, IN and works as Soft-
+          ware Engineer at HCLtech. He occasionally posts Ethical Hacking,
+          videos on his YouTube channel. In the future, Kumar hopes to own and
+          drive the all new{' '}
           <b>2023 Ford F150&reg; Lightning&trade; Pro</b>.
         </p>
         <div className={styles.stat}>
@@ -41,17 +41,17 @@ export const About: React.FC = () => {
           </a>
         </div>
         <div className={styles.stat}>
-          <span>Height: </span>1.73 m (5 feet 8 and 7/64 inches)*
+          <span>Height: </span>1.88 m (6 feet 2 inches)*
         </div>
         <div className={styles.stat}>
           <span>Education: </span>
           <a href="https://jpv.ac.in/" target="_blank" rel="noreferrer">
-          Jai Prakash University – Chapra
+          Jai Prakash University – Chhapra
           </a>{' '}
           (2022)
         </div>
         <div className={styles.stat}>
-          <span>Net Worth: </span>$72.9 USD (June, 2021)
+          <span>Net Worth: </span>$72.9 USD (June, 2022)
         </div>
 
         <div className={styles.border} />

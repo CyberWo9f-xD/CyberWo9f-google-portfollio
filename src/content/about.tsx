@@ -21,7 +21,7 @@ export const profiles: Profile[] = [
   },
   {
     label: 'YouTube',
-    url: 'https://www.youtube.com/c/SpyKid/',
+    url: 'https://youtube.com/channel/UC6dut7RS0eXF4-FsiI7BZnQ/',
     src: youtube,
   },
   {
@@ -43,7 +43,7 @@ export const friends: Friends = [
     src: dwayneJohnson,
     name: 'Pari Chauhan Rajput',
     label: 'Future Wife',
-    url: 'https://www.google.com/search?q=Dwayne%20Johnson',
+    url: 'https://www.google.com/search?q=Pari+Chauhan+Rajput',
   },
   {
     src: jodiJang,

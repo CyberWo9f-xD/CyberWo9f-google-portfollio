@@ -19,61 +19,53 @@ export const videos: Video[] = [
     uploadDate: 'July 11, 2022',
   },
   {
-    title: 'My Experience Getting Laid Off',
-    id: 'mnNJDU66haI',
-    description: `Coinbase recently laid off 18% (N = 1,100) employees, and I was a part of it. I talk about my experience at the company, as well as what it was like during, before, and after the layoffs. I hope that everybody affected by the layoffs can quickly recover.`,
-    uploadDate: 'June 20, 2022',
+    title: 'FREE Advanced BURPSUITE Mini COURSE',
+    id: '7wtisgnd_i4',
+    description: `Useful tips for using Burpsuite like PRO`,
+    uploadDate: 'Oct 11, 2022',
   },
   {
-    title: 'Analyzing NBA Championships with Graph Theory',
-    id: 'bO_VlATlQDU',
-    description: `Last month 2020 NBA season ended with the LA Lakers winning their 17th franchise championship, at the same time, my Graph Theory course has been teaching the PageRank Algorithm. Today I'm going to see if I can apply what I've learned to analyze some of the more recent NBA Championship runs.`,
+    title: 'How "POLICE" Analyse HACKER Program',
+    id: 'fb8aLrLyyp4',
+    description: `How Police reverse engreeing Any Apk To Track Vicimts?,`,
     uploadDate: 'Nov 3, 2020',
   },
   {
-    title: 'Building Recursive Components in React',
-    id: 'a5aumoJWbKk',
-    description: `I took a nap earlier yesterday and had a dream about recursive components in React. So I decided to make a quick video on building these types of recursive components. Also, if I hit 2 likes on this video I'll make another React video sometime soon.`,
+    title: 'WHY Your "Antivirus" NOT Detected 0/26',
+    id: 'atrSAYvyiqQ',
+    description: `Advanced method for making FUD in 2022,. How hackers Bypass any Antivirus?`,
     uploadDate: 'Oct 17, 2020',
   },
   {
-    title: 'Building a GraphQL Server with Golang and MongoDB',
-    id: 'FkpCeXbXVhU',
-    description: `Building a GraphQL Server with Golang, MongoDB and live commentary. Learn to setup a simple GraphQL Server from scratch. 
-
-    Links referenced throughout the video: 
-    
-    Source code: https://github.com/CyberWo9f-xD/go-graphql
-    howtographql: https://www.howtographql.com/graphql-...
-    mongodb driver: https://github.com/mongodb/mongo-go-d...
-    gqlgen: https://github.com/99designs/gqlgen
-    `,
+    title: 'Dont make mistake full time Bug Hunter',
+    id: 'adrfP31J4-w',
+    description: `Advanced Level Method to Hunt AnySites.`,
     uploadDate: 'Aug 3, 2020',
   },
   {
-    title: 'JavaScript Essentials: Array Destructuring',
-    id: 'Cns4k9S_jvk',
-    description: `Destructuring is a powerful syntax feature that came with the release of ES6. It lets us unpack data structures like arrays and objects into variables in a clean and elegant way. 
+    title: 'How Hackers Earn MONEY',
+    id: 'vk8tKHRjeg0',
+    description: `In this video i give you knowledge About how hackers earn Money. 
 
     Today we explore some of the ways we can use array destructuring to our benefit. 
     
     
-    To learn more about object destructuring check out: https://youtu.be/CyberWo9f-xD
+    To learn more about object destructuring check out: https://youtube.com/channel/UC6dut7RS0eXF4-FsiI7BZnQ
     `,
     uploadDate: 'June 19, 2020',
   },
   {
-    title: 'JavaScript Essentials: Object Destructuring',
-    id: '2jbuJpiUSbo',
-    description: `Destructuring is a powerful syntax feature that came with the release of ES6. It lets us unpack data structures like arrays and objects into variables in a clean and elegant way. 
+    title: 'How To Install Garuda Linux On Android Mobile? Run Garuda Linux On Android',
+    id: 'VHZpHQU_fXY',
+    description: `Install Garuda Linux On Android Mobile, Benifits of Garuda Linux. 
 
     Today we explore some of the ways we can use object destructuring to our benefit.`,
     uploadDate: 'June 10, 2020',
   },
   {
-    title: 'Build a GraphQL Server with Deno and MongoDB',
-    id: 'CNz7G6mF9o0',
-    description: `Deno is a modern JavaScript/TypeScript runtime built by the author of NodeJS. Today we'll take a look at how you can build a GraphQL Server with Deno and MongoDB.
+    title: 'AUTO-START App After Boot & Restart Phone',
+    id: 'M4pze4wyoiY',
+    description: `How to add auto restart wherever phne bootup code in any application.
 
     Source code: https://github.com/CyberWo9f-xD/deno-gra...
     Learn more about Deno: https://deno.land/
