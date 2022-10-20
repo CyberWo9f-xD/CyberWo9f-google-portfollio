@@ -41,20 +41,20 @@ type Friends = ComponentProps<typeof Friend>[]
 export const friends: Friends = [
   {
     src: dwayneJohnson,
-    name: 'Pari Chauhan Rajput',
-    label: 'Future Wife',
+    name: 'Pari Chauhan',
+    label: 'Future',
     url: 'https://www.google.com/search?q=Pari+Chauhan+Rajput',
   },
   {
     src: jodiJang,
     name: 'Abhishek Yaduwansi',
-    label: 'Brother+Friend',
+    label: 'Brother',
     url: 'https://www.facebook.com/adityaroy.adityaroy.18041/',
   },
   {
     src: bryanLiu,
     name: 'Ashutosh Tiwari',
-    label: 'Close Friend',
+    label: 'Friend',
     url: 'https://www.facebook.com/aashutosh.tiwari.104',
   },
   {
