@@ -43,7 +43,7 @@ export const friends: Friends = [
     src: dwayneJohnson,
     name: 'Pari Chauhan',
     label: 'Future-W!',
-    url: 'https://drive.google.com/file/d/1WMoEBSRziBEyBHt_mV_NjwmHPXuMMmW1/view',
+    url: 'https://bit.ly/m/PariChauhanRajput',
   },
   {
     src: jodiJang,
@@ -60,7 +60,7 @@ export const friends: Friends = [
   {
     src: jeffZhao,
     name: 'Aakash Yaduwansi',
-    label: 'Fiend,Son',
+    label: 'Friend,Son',
     url: 'https://bit.ly/m/AakashYaduwansi',
   },
 ]

@@ -20,7 +20,7 @@ export const About: React.FC = () => {
         <h4>About</h4>
         <div className={styles.website}>{globe} CyberWo9f.com</div>
         <p className={styles.description}>
-          Kumar Yaduwansi a Indian software engineer, computer scientist and
+          Kumar Yaduwansi an Indian software engineer, computer scientist and
           E-Hacker. He is currently located in Ranchi, IN and works as Software
           Engineer at HCLtech. He occasionally posts Ethical Hacking,
           videos on his YouTube channel. In the future, Kumar hopes to own
@@ -41,7 +41,7 @@ export const About: React.FC = () => {
           </a>
         </div>
         <div className={styles.stat}>
-          <span>Height: </span>1.88 m (6 feet 2 inches)*
+          <span>Height: </span>1.88 m (6 feet 1 inches)*
         </div>
         <div className={styles.stat}>
           <span>Education: </span>
