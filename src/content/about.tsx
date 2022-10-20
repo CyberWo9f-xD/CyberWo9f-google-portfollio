@@ -42,25 +42,25 @@ export const friends: Friends = [
   {
     src: dwayneJohnson,
     name: 'Pari Chauhan',
-    label: 'Future',
-    url: 'https://www.google.com/search?q=Pari+Chauhan+Rajput',
+    label: 'Future-W!',
+    url: 'https://drive.google.com/file/d/1WMoEBSRziBEyBHt_mV_NjwmHPXuMMmW1/view',
   },
   {
     src: jodiJang,
     name: 'Abhishek Yaduwansi',
     label: 'Brother',
-    url: 'https://www.facebook.com/adityaroy.adityaroy.18041/',
+    url: 'https://bit.ly/m/AbhishekYaduwansi',
   },
   {
     src: bryanLiu,
     name: 'Ashutosh Tiwari',
     label: 'Friend',
-    url: 'https://www.facebook.com/aashutosh.tiwari.104',
+    url: 'https://bit.ly/m/AshutoshTiwari999',
   },
   {
     src: jeffZhao,
     name: 'Aakash Yaduwansi',
-    label: 'Son',
-    url: 'https://www.facebook.com/sky.yadav.7509836',
+    label: 'Fiend,Son',
+    url: 'https://bit.ly/m/AakashYaduwansi',
   },
 ]

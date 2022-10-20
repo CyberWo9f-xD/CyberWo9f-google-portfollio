@@ -24,8 +24,8 @@ export const About: React.FC = () => {
           E-Hacker. He is currently located in Ranchi, IN and works as Software
           Engineer at HCLtech. He occasionally posts Ethical Hacking,
           videos on his YouTube channel. In the future, Kumar hopes to own
-          and drive the all new{'             '} 
-          <b>2023 Ford F150&reg; Lightning&trade; Pro</b>.
+          {'   '} 
+          <b>2025 Range Rover&reg; Lightning&trade; SV</b>.
         </p>
         <div className={styles.stat}>
           <span>Born: </span>June, 2002 (age{' '}
