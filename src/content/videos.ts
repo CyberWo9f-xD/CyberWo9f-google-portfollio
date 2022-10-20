@@ -5,8 +5,8 @@ type Video = ComponentProps<typeof VideoResult>
 
 export const videos: Video[] = [
   {
-    title: 'How I Build Backend Services in 2022',
-    id: 'twi33GVRazE',
+    title: 'TryHackMe - Vulnversity Walkthrouh',
+    id: 'VoY2ERH08Bs',
     description: `Building a simple GraphQL API with me using TypeScript, NestJS, and Prisma. 
 
     Source code: https://github.com/CyberWo9f-xD/backend-2022
